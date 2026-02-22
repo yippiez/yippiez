@@ -1,4 +1,5 @@
 - [tinygp](https://github.com/yippiez/tinygp): Genetic programming library on tinygrad
+- [comment-mode](https://github.com/yippiez/comment-mode): Review based workflow for coding agents
 - [nanonca](https://github.com/yippiez/nanonca): Neural cellular automata (NCA) and diffusion NCA (diff-NCA) algorithms written in jax
 - [holpp](https://github.com/yippiez/holpp): High or Low Powered Perceptron Circuits
 - [linalg](https://github.com/yippiez/linalg): A CLI tool to do numpy based linear algebra operations using only cli
