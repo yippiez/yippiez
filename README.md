@@ -1,12 +1,20 @@
+# WIP
+
 - [tinygp](https://github.com/yippiez/tinygp): Genetic programming library on tinygrad
 - [comment-mode](https://github.com/yippiez/comment-mode): Review based workflow for coding agents
-- [nanonca](https://github.com/yippiez/nanonca): Neural cellular automata (NCA) and diffusion NCA (diff-NCA) algorithms written in jax
 - [holpp](https://github.com/yippiez/holpp): High or Low Powered Perceptron Circuits
+
+# DONE
+
+- [nanonca](https://github.com/yippiez/nanonca): Neural cellular automata (NCA) and diffusion NCA (diff-NCA) algorithms written in jax
 - [linalg](https://github.com/yippiez/linalg): A CLI tool to do numpy based linear algebra operations using only cli
-- [brainfuck-interpeter-go](https://github.com/yippiez/brainfuck-interpeter-go): Brainfuck interpeter written in go
-- [esp-wlan-acces-point](https://github.com/yippiez/esp-wlan-acces-point): Quick way to achieve a wlan connection using esp microcontrollers with a CLI interface and web config panel
 - [fpga-stepper-driver](https://github.com/yippiez/fpga-stepper-driver): fpga stepper motor driver implemented in verilog
 - [attiny1624-breakout](https://github.com/yippiez/attiny1624-breakout): breakout board for attiny1624
+
+# ARCHIVE
+
+- [brainfuck-interpeter-go](https://github.com/yippiez/brainfuck-interpeter-go): Brainfuck interpeter written in go
+- [esp-wlan-acces-point](https://github.com/yippiez/esp-wlan-acces-point): Quick way to achieve a wlan connection using esp microcontrollers with a CLI interface and web config panel
 - [stm8s-header](https://github.com/yippiez/stm8s-header): simple header file for stm8s microcontrollers
 - [espgate](https://github.com/yippiez/espgate): esp8266 / esp32 NAPT wifi extender with a built in ddns filter
 - [esp-netfilter](https://github.com/yippiez/esp-netfilter): netfilter libary for esp8266/esp32 boards
