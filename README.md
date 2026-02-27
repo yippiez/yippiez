@@ -1,7 +1,8 @@
 # WIP
 
-- [tinygp](https://github.com/yippiez/tinygp): Genetic programming library on tinygrad
 - [comment-mode](https://github.com/yippiez/comment-mode): Review based workflow for coding agents
+- [boing](https://github.com/yippiez/boing): Code enforced constrained based compliant system synthesis
+- [tinygp](https://github.com/yippiez/tinygp): Genetic programming library on tinygrad
 - [holpp](https://github.com/yippiez/holpp): High or Low Powered Perceptron Circuits
 
 # DONE
