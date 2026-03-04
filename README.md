@@ -14,3 +14,4 @@
 - [pi-codemaps](https://github.com/yippiez/pi-codemaps): Pi extension to create structured queries against a codebase to find relevant files
 - [pi-jjcommit](https://github.com/yippiez/pi-jjcommit): Pi extension to easliy commit to jj without interrupting workflow
 - [pi-explorer-tools](https://github.com/yippiez/pi-explorer-tools): Pi extension to limit the coding agent to only explorer tools
+- [pi-router](https://github.com/yippiez/pi-router): Router extension for pi agents
