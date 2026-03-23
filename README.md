@@ -1,5 +1,6 @@
 # ACTIVE
 
+- [pi-mobile](https://github.com/yippiez/pi-mobile): Extensible interface for the pi coding-agent that is tailored for smartphones
 - [boing](https://github.com/yippiez/boing): Code enforced constrained based compliant system synthesis
 - [tinygp](https://github.com/yippiez/tinygp): Genetic programming library on tinygrad
 - [holpp](https://github.com/yippiez/holpp): High or Low Powered Perceptron Circuits
