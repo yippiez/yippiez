@@ -1,11 +1,12 @@
 # ACTIVE
+- Sshhh 🤫
+
+
+# PASSIVE
 
 - [pi-mobile](https://github.com/yippiez/pi-mobile): Extensible interface for the pi coding-agent that is tailored for smartphones
 - [tinygp](https://github.com/yippiez/tinygp): Genetic programming library on tinygrad
 - [holpp](https://github.com/yippiez/holpp): High or Low Powered Perceptron Circuits
-
-# PASSIVE
-
 - [comment-mode](https://github.com/yippiez/comment-mode): Review based workflow for coding agents
 - [nanonca](https://github.com/yippiez/nanonca): Neural cellular automata (NCA) and diffusion NCA (diff-NCA) algorithms written in jax
 - [linalg](https://github.com/yippiez/linalg): A CLI tool to do numpy based linear algebra operations
