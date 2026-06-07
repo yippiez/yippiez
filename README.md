@@ -13,6 +13,7 @@
 - [fpga-stepper-driver](https://github.com/yippiez/fpga-stepper-driver): fpga stepper motor driver implemented in verilog
 - [attiny1624-breakout](https://github.com/yippiez/attiny1624-breakout): breakout board for attiny1624
 - [pi-codemaps](https://github.com/yippiez/pi-codemaps): Pi extension to create structured queries against a codebase to find relevant files
-- [pi-jjcommit](https://github.com/yippiez/pi-jjcommit): Pi extension to easliy commit to jj without interrupting workflow
+- [pi-jjcommit](https://github.com/yippiez/pi-jjcommit): Pi extension to commit to jj without interrupting workflow
+- [pi-gitcommit](https://github.com/yippiez/pi-gitcommit): Pi extension to commit to git without interrupting workflow
 - [pi-explorer-tools](https://github.com/yippiez/pi-explorer-tools): Pi extension to limit the coding agent to only explorer tools
 - [pi-router](https://github.com/yippiez/pi-router): Router extension for pi agents
