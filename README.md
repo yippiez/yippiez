@@ -19,3 +19,6 @@
 - [pi-compact-tool-calls](https://github.com/yippiez/pi-compact-tool-calls): Pi extension for compact single-line tool call rendering
 - [pi-explorer-tools](https://github.com/yippiez/pi-explorer-tools): Pi extension to limit the coding agent to only explorer tools
 - [pi-router](https://github.com/yippiez/pi-router): Router extension for pi agents
+- [pi-worked-for](https://github.com/yippiez/pi-worked-for): Pi extension that shows how long each prompt worked after it finishes
+- [pi-skill-ml-code-as-output](https://github.com/yippiez/pi-skill-ml-code-as-output): Pi skill for training small interpretable models and emitting code artifacts
+- [pi-skill-pseudo-repl-report](https://github.com/yippiez/pi-skill-pseudo-repl-report): Pi skill for pseudo-REPL call-stack style reports
